@@ -2,10 +2,10 @@
 	"folder_history":
 	[
 	],
-	"last_window_id": 1163,
+	"last_window_id": 11759,
 	"settings":
 	{
-		"new_window_height": 856.0,
+		"new_window_height": 855.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -13,363 +13,543 @@
 				"selected_items":
 				[
 					[
-						"pr",
-						"printStream"
+						"mr",
+						"mr"
 					],
 					[
 						"re",
-						"result"
+						"removeDuplicates"
 					],
 					[
-						"c",
-						"c"
+						"D",
+						"D"
 					],
 					[
-						"a",
-						"a"
+						"C",
+						"C"
 					],
 					[
-						"W",
-						"Word"
+						"pa",
+						"parentId"
 					],
 					[
-						"w",
-						"word"
+						"st",
+						"startPage"
 					],
 					[
-						"asc",
-						"asciiGraph"
-					],
-					[
-						"Prin",
-						"print"
-					],
-					[
-						"enc",
-						"encodeNum"
-					],
-					[
-						"enco",
-						"encodeNumber"
-					],
-					[
-						"s",
-						"sgn_num"
-					],
-					[
-						"tem",
-						"tempLng"
-					],
-					[
-						"temp",
-						"tempLat"
-					],
-					[
-						"g",
-						"gpsPoints"
+						"buffer",
+						"BufferedReader"
 					],
 					[
 						"get",
-						"getLatitude"
+						"getPopularQueries"
 					],
 					[
-						"gs",
-						"Gps"
+						"long",
+						"longestIncreasingContinuousSubsequence"
+					],
+					[
+						"coun",
+						"countOnes"
+					],
+					[
+						"is",
+						"isPalindrome"
+					],
+					[
+						"pe",
+						"permuteString"
+					],
+					[
+						"inp",
+						"inputString"
+					],
+					[
+						"chec",
+						"checkString"
+					],
+					[
+						"so",
+						"sortLetters"
+					],
+					[
+						"sub",
+						"subarraySum"
 					],
 					[
 						"P",
-						"println"
+						"p"
 					],
 					[
-						"te",
-						"tempLat"
+						"sol",
+						"solveNQueens"
 					],
 					[
-						"en",
-						"encodeSignedNumber"
+						"las",
+						"lastString"
 					],
 					[
-						"gps",
-						"gpsPoints"
+						"Conta",
+						"containsDuplicate"
 					],
 					[
-						"G",
-						"Gps"
+						"b",
+						"b"
 					],
 					[
-						"p",
-						"println"
+						"per",
+						"permutation2"
+					],
+					[
+						"le",
+						"letterCombination"
+					],
+					[
+						"A",
+						"Arrays"
+					],
+					[
+						"genera",
+						"GenerateNumber"
+					],
+					[
+						"co",
+						"combinationSum"
+					],
+					[
+						"a",
+						"array"
+					],
+					[
+						"max",
+						"maxSubArray1"
+					],
+					[
+						"dst",
+						"Dst"
+					],
+					[
+						"City",
+						"City02"
+					],
+					[
+						"CIty",
+						"City01"
+					],
+					[
+						"to",
+						"toString"
+					],
+					[
+						"add",
+						"addData"
+					],
+					[
+						"I",
+						"I"
+					],
+					[
+						"E",
+						"E"
+					],
+					[
+						"ds",
+						"dstCity"
+					],
+					[
+						"s",
+						"startCity"
+					],
+					[
+						"as",
+						"asFraction"
+					],
+					[
+						"lo",
+						"longestCommonSubstring"
+					],
+					[
+						"sort",
+						"sortKColors1"
+					],
+					[
+						"sor",
+						"sortKColors"
+					],
+					[
+						"infix",
+						"InfixNotation"
+					],
+					[
+						"eva",
+						"evalInfix"
+					],
+					[
+						"pi",
+						"pivot"
+					],
+					[
+						"pivot",
+						"pivot-1"
+					],
+					[
+						"int",
+						"integers"
+					],
+					[
+						"peek",
+						"peekFirst"
+					],
+					[
+						"de",
+						"doubleQueue"
+					],
+					[
+						"doubl",
+						"doubleQueue"
+					],
+					[
+						"wind",
+						"windowSize"
+					],
+					[
+						"i-w",
+						"i-windowSize"
+					],
+					[
+						"win",
+						"windowMin"
+					],
+					[
+						"firt",
+						"firstOccurrence"
+					],
+					[
+						"rt",
+						"return"
+					],
+					[
+						"Ar",
+						"ArrayList"
+					],
+					[
+						"d",
+						"dest"
+					],
+					[
+						"in",
+						"input"
+					],
+					[
+						"righ",
+						"rightTree"
+					],
+					[
+						"ma",
+						"maxSum"
+					],
+					[
+						"Com",
+						"combinations"
+					],
+					[
+						"str",
+						"strings"
+					],
+					[
+						"search",
+						"searchR"
+					],
+					[
+						"string",
+						"strings"
+					],
+					[
+						"ana",
+						"anagrams"
+					],
+					[
+						"has",
+						"HashTable"
+					],
+					[
+						"index",
+						"indexMerged"
+					],
+					[
+						"ind",
+						"indexA"
+					],
+					[
+						"inde",
+						"indexA"
+					],
+					[
+						"last",
+						"lastA"
+					],
+					[
+						"bo",
+						"bottom"
+					],
+					[
+						"new",
+						"new_height"
+					],
+					[
+						"box",
+						"boxes"
+					],
+					[
+						"stack",
+						"stack_map"
+					],
+					[
+						"row",
+						"rowDistance"
+					],
+					[
+						"c",
+						"column2"
+					],
+					[
+						"In",
+						"Integer"
+					],
+					[
+						"place",
+						"placeQueens"
+					],
+					[
+						"col",
+						"columns"
+					],
+					[
+						"dem",
+						"denoms"
+					],
+					[
+						"am",
+						"amountRemaining"
+					],
+					[
+						"denom",
+						"denomAmount"
+					],
+					[
+						"pai",
+						"paintFill"
 					],
 					[
 						"S",
 						"String"
 					],
 					[
-						"ar",
-						"args"
+						"ri",
+						"rightRem"
 					],
 					[
-						"d",
-						"double"
+						"left",
+						"leftRem"
 					],
 					[
-						"ne",
-						"nextDouble"
+						"subs",
+						"subset"
 					],
 					[
-						"Str",
-						"StringBuffer"
-					],
-					[
-						"st",
-						"String"
-					],
-					[
-						"out",
-						"outnum"
-					],
-					[
-						"ec",
-						"encodeSignedNumber"
-					],
-					[
-						"th",
-						"thirdArgument"
-					],
-					[
-						"com",
-						"compoundAnnually"
-					],
-					[
-						"Com",
-						"CompoundInterestCalculator"
-					],
-					[
-						"comp",
-						"compoundAnnually"
-					],
-					[
-						"first",
-						"firstInput"
-					],
-					[
-						"fir",
-						"firstInput"
-					],
-					[
-						"heap_",
-						"heap_num"
-					],
-					[
-						"hum",
-						"heap_num"
-					],
-					[
-						"h",
-						"heap_num"
-					],
-					[
-						"o",
-						"operator_list"
-					],
-					[
-						"ini",
-						"init_num_list"
-					],
-					[
-						"heap",
-						"heap_num"
-					],
-					[
-						"T",
-						"Traff"
-					],
-					[
-						"max",
-						"max_all"
-					],
-					[
-						"ds",
-						"dstport"
-					],
-					[
-						"src",
-						"srcport"
-					],
-					[
-						"por",
-						"port_data"
-					],
-					[
-						"port",
-						"port_num"
-					],
-					[
-						"data",
-						"data"
-					],
-					[
-						"da",
-						"data_P2"
-					],
-					[
-						"num",
-						"num_of_packet"
-					],
-					[
-						"dst",
-						"dsthost"
-					],
-					[
-						"total",
-						"total_data"
-					],
-					[
-						"el",
-						"else"
-					],
-					[
-						"tcp",
-						"tcp"
-					],
-					[
-						"srchost",
-						"srchost"
-					],
-					[
-						"srcho",
-						"srchost_num"
-					],
-					[
-						"srchost_",
-						"srchost_host"
-					],
-					[
-						"sr",
-						"srcport"
-					],
-					[
-						"srcp",
-						"srcport_list"
-					],
-					[
-						"perc",
-						"percentage_2"
-					],
-					[
-						"per",
-						"percentage_1"
-					],
-					[
-						"pa",
-						"packets"
-					],
-					[
-						"time",
-						"timestamp"
-					],
-					[
-						"tim",
-						"timestamp"
-					],
-					[
-						"eah",
-						"each_entry"
-					],
-					[
-						"l",
-						"lastline"
-					],
-					[
-						"each",
-						"each_entry"
-					],
-					[
-						"ave",
-						"avg_rate"
-					],
-					[
-						"tot",
-						"total_data"
-					],
-					[
-						"to",
-						"total_data"
-					],
-					[
-						"av",
-						"avg_rate"
-					],
-					[
-						"ea",
-						"each_entry"
-					],
-					[
-						"e",
-						"each_entry"
-					],
-					[
-						"t",
-						"t"
-					],
-					[
-						"lin",
-						"lines"
-					],
-					[
-						"cu",
-						"curr_node"
+						"all",
+						"allsubsets"
 					],
 					[
 						"r",
-						"root"
+						"rightIndex"
 					],
 					[
-						"ski",
-						"skip_bit"
+						"lef",
+						"left"
 					],
 					[
-						"skip",
-						"skip_ip"
+						"magic",
+						"magicFastDup"
 					],
 					[
-						"sk",
-						"skip_bit"
+						"mid",
+						"midValue"
 					],
 					[
-						"curr",
-						"curr_bit"
+						"lengt",
+						"length-1"
 					],
 					[
-						"ret",
-						"return"
+						"count",
+						"countWays"
 					],
 					[
-						"cur",
-						"curr_node"
+						"end",
+						"end_mask"
 					],
 					[
-						"inet",
-						"inet_ntoa"
+						"sta",
+						"start_mask"
+					],
+					[
+						"by",
+						"byte_number"
+					],
+					[
+						"start",
+						"start_mask"
+					],
+					[
+						"l",
+						"last_full_byte"
+					],
+					[
+						"fi",
+						"first_full_byte"
+					],
+					[
+						"comm",
+						"commonAncestorHelper"
+					],
+					[
+						"Tr",
+						"TreeNode"
+					],
+					[
+						"check",
+						"checkBST"
+					],
+					[
+						"ch",
+						"checkBST"
+					],
+					[
+						"cr",
+						"current"
+					],
+					[
+						"tree",
+						"TreeNode"
+					],
+					[
+						"cre",
+						"createLevelLinkedList"
+					],
+					[
+						"tr",
+						"TreeNode"
+					],
+					[
+						"Vi",
+						"Visited"
+					],
+					[
+						"sa",
+						"start"
+					],
+					[
+						"vi",
+						"Visiting"
+					],
+					[
+						"h",
+						"heightDiff"
+					],
+					[
+						"Long",
+						"longestPalindrome"
+					],
+					[
+						"Re",
+						"ReverseLinkedListII"
+					],
+					[
+						"Lar",
+						"largestNumber"
+					],
+					[
+						"ca",
+						"cats"
+					],
+					[
+						"po",
+						"pop"
+					],
+					[
+						"St",
+						"StacksAndQueues_5"
+					],
+					[
+						"move",
+						"moveTopTo"
+					],
+					[
+						"stak",
+						"stackNum"
+					],
+					[
+						"ab",
+						"absTopOfStack"
+					],
+					[
+						"stac",
+						"stackSize"
+					],
+					[
+						"i",
+						"Integer"
+					],
+					[
+						"Lin",
+						"LinkedListNode"
+					],
+					[
+						"aft",
+						"afterStart"
+					],
+					[
+						"af",
+						"afterStart"
+					],
+					[
+						"be",
+						"beforeStart"
+					],
+					[
+						"Li",
+						"LinkedListNode"
+					],
+					[
+						"link",
+						"LinkedListNode"
 					]
 				]
 			},
 			"build_system": "Packages/Python/Python.sublime-build",
 			"command_palette":
 			{
-				"height": 52.0,
+				"height": 61.0,
 				"selected_items":
 				[
+					[
+						"install pa",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: insta",
+						"Package Control: Install Package"
+					],
+					[
+						"Snippet: print",
+						"Snippet: println"
+					],
 					[
 						"Package Control: remo",
 						"Package Control: Remove Package"
 					],
 					[
 						"Package Control: install package",
-						"Package Control: Install Package"
-					],
-					[
-						"Package Control: insta",
 						"Package Control: Install Package"
 					],
 					[
@@ -389,7 +569,7 @@
 						"Snippet: #!/usr/bin/env"
 					]
 				],
-				"width": 561.0
+				"width": 457.0
 			},
 			"console":
 			{
@@ -406,138 +586,138 @@
 			},
 			"file_history":
 			[
-				"/Users/liuwenyue/Library/Application Support/Sublime Text 2/Packages/User/Base File.sublime-settings",
-				"/Users/liuwenyue/Library/Application Support/Sublime Text 2/Packages/User/Plain text.sublime-settings",
-				"/Users/liuwenyue/Desktop/test.java",
-				"/Users/liuwenyue/Library/Application Support/Sublime Text 2/Packages/Alignment/Default (OSX).sublime-keymap",
-				"/Users/liuwenyue/Library/Application Support/Sublime Text 2/Packages/User/JSON.sublime-settings",
-				"/Users/liuwenyue/Library/Application Support/Sublime Text 2/Packages/Alignment/Base File.sublime-settings",
-				"/Users/liuwenyue/Library/Application Support/Sublime Text 2/Packages/User/SublimeLinter.sublime-settings",
-				"/Users/liuwenyue/Library/Application Support/Sublime Text 2/Packages/SublimeLinter/SublimeLinter.sublime-settings",
-				"/Users/liuwenyue/octopress/weibo-config.yml",
-				"/Users/liuwenyue/Dropbox/github/Fall-2014/homework/week3/src/main/java/edu/nyu/cs9053/homework3/FixMe.java",
-				"/Users/liuwenyue/Desktop/homework3/AsciiArt.java",
-				"/Users/liuwenyue/Desktop/Processor.java",
-				"/Users/liuwenyue/Desktop/FixMeFixed.java",
-				"/Users/liuwenyue/Desktop/ProcessorFixed.java",
-				"/Users/liuwenyue/Desktop/src/main/java/edu/nyu/cs9053/homework3/HelloWorld.java",
-				"/Users/liuwenyue/Desktop/Letter.java",
-				"/Users/liuwenyue/Desktop/AsciiArt.java",
-				"/Users/liuwenyue/Desktop/AA.java",
-				"/Users/liuwenyue/Desktop/PrintTree",
-				"/Users/liuwenyue/Desktop/WordToArt.java",
-				"/Users/liuwenyue/Downloads/StarCount.java",
-				"/Users/liuwenyue/Dropbox/github/Fall-2014/homework/week2/src/main/java/edu/nyu/cs9053/homework2/PolylineEncoder.java",
-				"/Users/liuwenyue/Desktop/src/main/java/edu/nyu/cs9053/homework3/FixMe.java",
-				"/Users/liuwenyue/Desktop/src/main/java/edu/nyu/cs9053/homework3/metadata/Processor.java",
-				"/Users/liuwenyue/Desktop/src/test/FixMeFixed.java",
-				"/Users/liuwenyue/Desktop/src/test/ProcessorFixed.java",
-				"/Users/liuwenyue/Downloads/src/test/java/edu/nyu/cs9053/homework3/FixMeFixed.java",
-				"/Users/liuwenyue/Downloads/week3/src/main/java/edu/nyu/cs9053/homework3/metadata/Processor.java",
-				"/Users/liuwenyue/Dropbox/github/Fall-2014/homework/week2/src/main/java/edu/nyu/cs9053/homework2/CompoundInterestCalculator.java",
-				"/Users/liuwenyue/Dropbox/github/Fall-2014/homework/week2/src/main/java/edu/nyu/cs9053/homework2/Gps.java",
-				"/Users/liuwenyue/Desktop/test.sh",
-				"/Users/liuwenyue/Desktop/PolylineEncoder.java",
-				"/Users/liuwenyue/Desktop/Gps.java",
-				"/Users/liuwenyue/Desktop/CompoundInterestCalculator.java",
-				"/Users/liuwenyue/Desktop/Program.java",
-				"/Users/liuwenyue/Desktop/2.py",
-				"/Users/liuwenyue/Desktop/1.py",
+				"/Users/liuwenyue/Dropbox/github/Leetcode/Easy/BinaryTreePaths.java",
+				"/Users/liuwenyue/Desktop/BinaryTreePaths.java",
+				"/Users/liuwenyue/Dropbox/面试题目总结/probability.txt",
+				"/Users/liuwenyue/Downloads/InterviewPrep-master/algorithms/Sort.java",
+				"/Users/liuwenyue/Downloads/InterviewPrep-master/algorithms/Main.java",
+				"/Users/liuwenyue/Downloads/InterviewPrep-master/algorithms/Search.java",
+				"/Users/liuwenyue/Downloads/InterviewPrep-master/arrays/and/strings/MyMap.java",
+				"/Users/liuwenyue/Downloads/InterviewPrep-master/basic/Main.java",
+				"/Users/liuwenyue/Downloads/InterviewPrep-master/linkedlist/Stack.java",
+				"/Users/liuwenyue/Downloads/InterviewPrep-master/linkedlist/LinkedList.java",
+				"/Users/liuwenyue/Downloads/InterviewPrep-master/trees/and/graphs/BST.java",
+				"/Users/liuwenyue/Dropbox/github/Lintcode/Medium/KthSmallestNumberInSortedMatrix.java",
+				"/Users/liuwenyue/octopress/source/leet/leet.html",
+				"/Users/liuwenyue/Desktop/leet.html",
+				"/Users/liuwenyue/Desktop/Untitled.html",
 				"/Users/liuwenyue/octopress/source/_includes/custom/navigation.html",
-				"/Users/liuwenyue/Desktop/index.html",
-				"/Users/liuwenyue/Desktop/compile.sh",
-				"/Users/liuwenyue/Desktop/execute.sh",
-				"/Users/liuwenyue/Documents/nimgame.py",
-				"/Users/liuwenyue/Documents/nim.py",
-				"/Users/liuwenyue/Documents/2.py",
-				"/Users/liuwenyue/Documents/nim_game.py",
-				"/Users/liuwenyue/octopress/source/resume/resume.html",
-				"/Users/liuwenyue/Downloads/Resume of Wenyue Liu/a7c16080-34a5-11e4-90ae-002590d31986_id_a7c16080-34a5-11e4-90ae-002590d31986.html",
-				"/Users/liuwenyue/Downloads/Resume of Wenyue Liu/Resume of Wenyue Liu.htm",
-				"/Users/liuwenyue/octopress/source/_includes/custom/footer.html",
-				"/Users/liuwenyue/octopress/source/_includes/footer.html",
-				"/Users/liuwenyue/octopress/source/_layouts/page.html",
 				"/Users/liuwenyue/octopress/_config.yml",
-				"/Users/liuwenyue/octopress/source/_includes/custom/category_list.html",
-				"/Users/liuwenyue/octopress/source/_includes/custom/asides/about.html",
-				"/Users/liuwenyue/octopress/source/_includes/custom/asides/flag_counter.html",
-				"/Users/liuwenyue/octopress/source/_includes/navigation.html",
-				"/Users/liuwenyue/octopress/.themes/whitespace/source/_includes/custom/navigation.html",
-				"/Users/liuwenyue/octopress/.themes/whitespace/source/index.html",
-				"/Users/liuwenyue/octopress/.themes/greyjoy/source/_includes/custom/after_footer.html",
-				"/Users/liuwenyue/octopress/.themes/whitespace/source/_includes/footer.html",
-				"/Users/liuwenyue/octopress/.themes/whitespace/source/_layouts/post.html",
-				"/Users/liuwenyue/octopress/.themes/greyjoy/source/index.html",
-				"/Users/liuwenyue/octopress/.themes/greyjoy/source/_includes/custom/navigation.html",
-				"/Users/liuwenyue/octopress/.themes/greyjoy/source/_includes/navigation.html",
-				"/Users/liuwenyue/octopress/source/_includes/custom/head.html",
-				"/Users/liuwenyue/octopress/sass/custom/_font.scss.txt",
-				"/Users/liuwenyue/Downloads/2048-master/js/game_manager.js",
-				"/Users/liuwenyue/Dropbox/CS/编程/Python/Python课件/pig/pig.py",
-				"/Users/liuwenyue/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
-				"/Users/liuwenyue/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
-				"/Users/liuwenyue/Library/Application Support/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
-				"/Users/liuwenyue/Library/Application Support/Sublime Text 2/Packages/User/Package Control.sublime-settings",
-				"/Users/liuwenyue/Downloads/Wi-Fi.Crack/Readme-说明.htm",
-				"/Users/liuwenyue/Downloads/人人网- 日志分享.html",
-				"/Users/liuwenyue/Desktop/IPv6.txt",
-				"/Users/liuwenyue/octopress/source/test/index.html",
+				"/Users/liuwenyue/octopress/source/about/index.html",
+				"/Users/liuwenyue/Dropbox/github/File_Sharing_Website/remover.py",
+				"/Users/liuwenyue/Dropbox/github/File_Sharing_Website/qn.py",
+				"/Users/liuwenyue/Dropbox/github/File_Sharing_Website/config.py",
+				"/Users/liuwenyue/Dropbox/github/File_Sharing_Website/app.py",
+				"/Users/liuwenyue/Documents/7373/SwitchSIM_withManuals_forMac/main/ALGORITHMS/algorithmTable.h",
+				"/Users/liuwenyue/Documents/7373/SwitchSIM_withManuals_forMac/main/ALGORITHMS/mr.c",
+				"/Users/liuwenyue/Documents/7373/SwitchSIM_withManuals_forMac/main/data/mr_8x8.output",
+				"/Users/liuwenyue/Documents/7373/SwitchSIM_withManuals_forMac/main/ALGORITHMS/Makefile",
+				"/Users/liuwenyue/Documents/7373/SwitchSIM_withManuals_forMac/main/ALGORITHMS/pim.o",
+				"/Users/liuwenyue/Documents/7373/SwitchSIM_withManuals_forMac/main/ALGORITHMS/pim.c",
+				"/Users/liuwenyue/Documents/7373/SwitchSIM_withManuals_forMac/main/ALGORITHMS/future.c",
+				"/Users/liuwenyue/Documents/7373/SwitchSIM_withManuals_forMac/main/TEST_INPS/8x8.output",
+				"/Users/liuwenyue/Documents/7373/SwitchSIM_withManuals_forMac/main/ALGORITHMS/future.h",
+				"/Users/liuwenyue/Documents/7373/SwitchSIM_withManuals_forMac/main/ALGORITHMS/assign2.h",
+				"/Users/liuwenyue/Documents/7373/SwitchSIM_withManuals_forMac/main/ALGORITHMS/ap2driver.c",
+				"/Users/liuwenyue/Documents/7373/SwitchSIM_withManuals_forMac/main/ALGORITHMS/wwfa.h",
+				"/Users/liuwenyue/Dropbox/github/File_Sharing_Website/templates/index.html",
+				"/Users/liuwenyue/octopress/cloud/cloud.html",
+				"/Users/liuwenyue/Dropbox/github/File_Sharing_Website/templates/style.css",
+				"/Users/liuwenyue/octopress/source/photo/index.html",
+				"/Users/liuwenyue/Desktop/index.html",
+				"/Users/liuwenyue/Downloads/flask-ghpages-example-master/project/main.py",
+				"/Users/liuwenyue/Downloads/flask-ghpages-example-master/run.py",
+				"/Users/liuwenyue/Downloads/flask-ghpages-example-master/freeze.py",
+				"/Users/liuwenyue/Downloads/flask-ghpages-example-master/project/views.py",
+				"/Users/liuwenyue/Downloads/flask-ghpages-example-master/project/settings.py",
+				"/Users/liuwenyue/Downloads/flask-ghpages-example-master/project/app.py",
 				"/Users/liuwenyue/octopress/source/cloud/cloud.html",
-				"/Users/liuwenyue/Desktop/task4.py",
-				"/Users/liuwenyue/Dropbox/学术/EL6383-HighSpeed/Project-Traffic-Analysis/code/task2.py",
-				"/Users/liuwenyue/octopress/source/test/test.html",
-				"/Users/liuwenyue/Desktop/test.txt",
-				"/Users/liuwenyue/Desktop/task1.py",
-				"/Users/liuwenyue/Dropbox/学术/EL6383-HighSpeed/Project-Traffic-Analysis/code/task1.py",
-				"/Users/liuwenyue/Downloads/test.html",
-				"/Users/liuwenyue/octopress/sass/custom/_fonts.scss",
-				"/Users/liuwenyue/octopress/source/index.html",
-				"/Users/liuwenyue/octopress/source/love/love.html",
-				"/Users/liuwenyue/Documents/view-source cloud.github.com.html",
-				"/Users/liuwenyue/Downloads/record.txt",
-				"/Users/liuwenyue/Library/Application Support/Sublime Text 2/Packages/User/Distraction Free.sublime-settings",
-				"/Users/liuwenyue/Library/Application Support/Sublime Text 2/Packages/User/Python.sublime-settings",
+				"/Users/liuwenyue/Desktop/remover.py",
+				"/Users/liuwenyue/Desktop/app.py",
+				"/Users/liuwenyue/Desktop/q.py",
+				"/Users/liuwenyue/Desktop/config.py",
+				"/Users/liuwenyue/Desktop/cleaner.py",
+				"/Users/liuwenyue/Desktop/templates/index.html",
+				"/Users/liuwenyue/Downloads/doora/q.py",
+				"/Users/liuwenyue/Downloads/doora/config.py",
+				"/Users/liuwenyue/Downloads/doora/app.py",
+				"/Users/liuwenyue/Downloads/app.py",
+				"/Users/liuwenyue/Downloads/cleaner.py",
+				"/Users/liuwenyue/Downloads/doora/cleaner.py",
+				"/Users/liuwenyue/Downloads/doora/templates/index.html",
+				"/Users/liuwenyue/Downloads/djproject/Users/views.py",
+				"/Users/liuwenyue/Downloads/djproject/uploader/views.py",
+				"/Users/liuwenyue/Downloads/djproject/djproject/wsgi.py",
+				"/Users/liuwenyue/Downloads/djproject/djproject/urls.py",
+				"/Users/liuwenyue/Downloads/doora-master/app.py",
+				"/Users/liuwenyue/Downloads/doora-master/config.py",
+				"/Users/liuwenyue/Downloads/myproject/myproject/settings.py",
+				"/Users/liuwenyue/Downloads/Python-example-master/djproject/uploader/views.py",
+				"/Users/liuwenyue/Downloads/Python-example-master/djproject/djproject/urls.py",
+				"/Users/liuwenyue/Dropbox/github/Leetcode/Easy/AddBinary.java",
+				"/Users/liuwenyue/Dropbox/get-data.py",
+				"/Users/liuwenyue/Downloads/leetcode-master/get-data.py",
+				"/Users/liuwenyue/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+				"/Users/liuwenyue/Desktop/new.txt",
+				"/Users/liuwenyue/Dropbox/github/Lintcode/Hard/Nuts&BoltsProblem.java",
+				"/Users/liuwenyue/Dropbox/github/Lintcode/Nuts&BoltsProblem.java",
+				"/Users/liuwenyue/Dropbox/github/Lintcode/CopyBooks.java",
+				"/Users/liuwenyue/Dropbox/github/Lintcode/PostOfficeProblem.java",
+				"/Users/liuwenyue/Dropbox/github/Lintcode/SubmatrixSum.java",
+				"/Users/liuwenyue/Desktop/PermutationIndexII.java",
+				"/Users/liuwenyue/Desktop/PermutationIndex.java",
+				"/Users/liuwenyue/Desktop/ValidAnagram.java",
+				"/Users/liuwenyue/Dropbox/刷题/Anagrams.java",
+				"/Users/liuwenyue/Documents/7373/simv2.35/main/switchStats.c",
+				"/Users/liuwenyue/Documents/7373/simv2.35/main/ALGORITHMS/ap2driver.c",
+				"/Users/liuwenyue/Documents/7373/simv2.35/main/ALGORITHMS/algorithmTable.h",
+				"/Users/liuwenyue/Documents/7373/simv2.35/main/ALGORITHMS/algorithm.h",
+				"/Users/liuwenyue/Desktop/run.sh",
+				"/Users/liuwenyue/Desktop/7373/数据/8x8.output",
+				"/Users/liuwenyue/Dropbox/github/sunny/run.sh",
+				"/Users/liuwenyue/Dropbox/github/sunny/launch.sh",
+				"/Users/liuwenyue/Downloads/fake-committer-master/launch.sh",
+				"/Users/liuwenyue/octopress/source/_includes/custom/asides/tag_cloud.html",
+				"/Users/liuwenyue/octopress/_deploy/tag/index.html",
+				"/Users/liuwenyue/octopress/tag/index.html",
+				"/Users/liuwenyue/octopress/sass/custom/_styles.scss",
 				"/Users/liuwenyue/Dropbox/学术/EL6383-HighSpeed/Project-Traffic-Analysis/code/task3.py",
-				"/Users/liuwenyue/Desktop/task3.py",
-				"/Users/liuwenyue/Dropbox/学术/EL6383-HighSpeed/Project-Traffic-Analysis/code/old/task2.py",
-				"/Users/liuwenyue/Dropbox/学术/EL6383-HighSpeed/Project-Traffic-Analysis/code/old/task1.py",
-				"/Users/liuwenyue/Desktop/task2.py",
-				"/Users/liuwenyue/Dropbox/学术/EL6383-HighSpeed/Project-Traffic-Analysis/code/old/task1-new.py",
-				"/Users/liuwenyue/Documents/project/tcp.py",
-				"/Users/liuwenyue/Documents/project/old/tcp.py",
-				"/Users/liuwenyue/Desktop/tcp.py",
-				"/Users/liuwenyue/Desktop/tcp/tcp.py",
-				"/Users/liuwenyue/Documents/SIM/8x8.VOQ.uniform",
-				"/Users/liuwenyue/Desktop/hello.py",
-				"/Users/liuwenyue/Dropbox/Inbox/编程面试/leetcode-master-1/C++/chapLinearList.tex",
-				"/Users/liuwenyue/Dropbox/Inbox/编程面试/leetcode-master-1/C++/chapTrick.tex",
-				"/Users/liuwenyue/Desktop/netsec",
-				"/Users/liuwenyue/Downloads/disjoint_trie.h",
-				"/Users/liuwenyue/Downloads/offline.c",
-				"/Users/liuwenyue/Downloads/binary_trie.h",
-				"/Users/liuwenyue/Downloads/ip_lookup_offline.c",
-				"/Users/liuwenyue/Downloads/online.c",
-				"/Users/liuwenyue/Downloads/offline_final.c",
-				"/Users/liuwenyue/Downloads/offline_c344.c",
-				"/Users/liuwenyue/Downloads/New Folder With Items/online.c",
-				"/Users/liuwenyue/Downloads/pathcompress_cc.h",
-				"/Users/liuwenyue/Downloads/pathcompress_c344.h",
-				"/Users/liuwenyue/Downloads/pc2.h",
-				"/Users/liuwenyue/Downloads/chen.c",
-				"/Users/liuwenyue/Downloads/pc.h",
-				"/Users/liuwenyue/Downloads/pathcompress_w.h",
-				"/Users/liuwenyue/Downloads/pathcompress_w 2.h",
-				"/Users/liuwenyue/Downloads/router/trie.c",
-				"/Users/liuwenyue/Downloads/router/trie.h",
-				"/Users/liuwenyue/Downloads/chen/online.c",
-				"/Users/liuwenyue/Downloads/v3/pathcompress.h",
-				"/Users/liuwenyue/Downloads/v3/offline.c",
-				"/Users/liuwenyue/Downloads/pathcompress.h",
-				"/Users/liuwenyue/Downloads/v1/ip_lookup_offline.c"
+				"/Users/liuwenyue/Dropbox/学术/EL6383-HighSpeed/Project-Traffic-Analysis/code/task2.py",
+				"/Users/liuwenyue/Dropbox/学术/EL6383-HighSpeed/Project-Traffic-Analysis/code/task1.py",
+				"/Users/liuwenyue/Downloads/web_u-master/Web_Flash_Driver/views.py",
+				"/Users/liuwenyue/Documents/Leet/Leet/Resources/code/4Sum.html",
+				"/Users/liuwenyue/Documents/Leet/Leet/Resources/code/3Sum.html",
+				"/Users/liuwenyue/Documents/Leet/Leet/Resources/code/3Sum Closest.html",
+				"/Users/liuwenyue/Documents/Leet/Leet/Resources/code/Remove Nth Node From End of List.html",
+				"/Users/liuwenyue/Documents/Leet/Leet/Resources/code/Binary Search Tree Iterator.html",
+				"/Users/liuwenyue/Documents/Leet/Leet/Resources/code/Best Time to Buy and Sell Stock IV.html",
+				"/Users/liuwenyue/Documents/Leet/Leet/Resources/code/Best Time to Buy and Sell Stock III.html",
+				"/Users/liuwenyue/Documents/Leet/Leet/Resources/code/Best Time to Buy and Sell Stock II.html",
+				"/Users/liuwenyue/Documents/Leet/Leet/Resources/code/Best Time to Buy and Sell Stock.html",
+				"/Users/liuwenyue/Documents/Leet/Leet/Resources/code/Balanced Binary Tree.html",
+				"/Users/liuwenyue/Documents/Leet/Leet/Resources/code/Anagrams.html",
+				"/Users/liuwenyue/Documents/Leet/Leet/Resources/code/Add Two Numbers.html",
+				"/Users/liuwenyue/Documents/Leet/Leet/Resources/code/Add Binary.html",
+				"/Users/liuwenyue/Desktop/code/LRU Cache.html",
+				"/Users/liuwenyue/Desktop/code/Maximal Square.html",
+				"/Users/liuwenyue/Desktop/code/Maximum Gap.html",
+				"/Users/liuwenyue/Desktop/code/Maximum Product Subarray.html",
+				"/Users/liuwenyue/Desktop/code/Maximum Gap copy.html",
+				"/Users/liuwenyue/Desktop/code/Maximum Depth of Binary Tree.html",
+				"/Users/liuwenyue/Desktop/code/Maximal Rectangle.html",
+				"/Users/liuwenyue/Desktop/code/Max Points on a Line.html",
+				"/Users/liuwenyue/Desktop/code/Majority Element.html",
+				"/Users/liuwenyue/Desktop/code/Trapping Rain Water.html",
+				"/Users/liuwenyue/Desktop/code/Two Sum.html",
+				"/Users/liuwenyue/Desktop/code/Permutations II.html",
+				"/Users/liuwenyue/Desktop/code/Longest Valid Parentheses.html",
+				"/Users/liuwenyue/Desktop/code/Remove Element.html",
+				"/Users/liuwenyue/Desktop/code/Remove Nth Node From End of List.html",
+				"/Users/liuwenyue/Desktop/code/Substring with Concatenation of All Words.html"
 			],
 			"find":
 			{
-				"height": 33.0
+				"height": 46.0
 			},
 			"find_in_files":
 			{
@@ -552,96 +732,134 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"main",
-					"num",
-					"sgn_num",
-					"encodeSignedNUmber",
-					"StringBuffer",
-					"items",
-					"!",
-					"sidebar",
+					"color",
 					"font",
-					"hashlib",
-					"plain",
-					"1024",
-					"1000",
-					"kb",
-					"1000",
-					"entry",
-					"total_data",
-					"0.2",
-					"0.3",
-					"0.4",
-					"0.5",
-					"0.6",
-					"0.7",
-					"0.8",
-					"0.9",
-					"1.0",
-					"bernoulli_iid_uniform ",
-					"0.9",
-					"0.8",
-					"0.7",
-					"0.6",
-					"0.5",
-					"0.4",
-					"0.3",
-					"0.2",
-					"0.1",
-					"0.9",
-					"bernoulli_iid_nonuniform",
-					"1.0",
-					"bursty",
-					"0.9",
-					"0.8",
-					"0.7",
-					"0.6",
-					"0.4",
-					"0.5",
-					"0.4",
-					"0.3",
-					"0.2",
-					"0.1",
-					"0.8",
-					"bernoulli_iid_uniform",
-					"f",
-					"e",
-					"d",
-					"c",
-					"b",
-					"a",
-					"pow",
-					"pre_exp",
-					"pre",
-					"dev",
-					"skip",
-					"172",
-					"verdict",
-					"BtNode",
-					"node",
-					"next",
-					"root",
-					"bool",
-					"counter",
-					"sniff",
-					"const sniff",
-					"inet",
-					"ip",
-					"counter",
-					"argv",
-					"argc",
-					"dev",
-					"pktdata",
-					"IN_ADDR",
-					"my_call",
-					"f",
-					"fo",
-					"fork",
-					"MP3",
 					"title",
-					"twitter",
-					"img",
-					"font"
+					"height",
+					"fifo",
+					"wwfa",
+					"css",
+					"drop",
+					"click",
+					"png",
+					"jpg",
+					"width",
+					"run",
+					"conf",
+					"database",
+					"databse",
+					"size=\"2\"",
+					"<!",
+					"size=\"2\"",
+					"second",
+					"home",
+					"ret",
+					"Ret",
+					"ret",
+					"mat",
+					"ind",
+					"last",
+					"mystr",
+					"/*",
+					"test",
+					"fetchdata",
+					"idx",
+					"endpage",
+					"startPage",
+					"mypath",
+					"url",
+					"getImageList",
+					"saveImage",
+					"sprider",
+					"getdata",
+					"respone",
+					"desc",
+					"\\r",
+					"\\n",
+					"/n",
+					"n",
+					"leave",
+					"beau",
+					"currLongest",
+					"oddSeen",
+					"parity",
+					"bufferReader",
+					"elems",
+					"format",
+					"fileName",
+					"ds",
+					"myds",
+					"capacity",
+					"tag",
+					"currs",
+					"changeCoins",
+					"22222",
+					"weight",
+					"argDst",
+					"target",
+					"Edge",
+					"Vertex",
+					"path",
+					"}",
+					"ArrayList<Char>",
+					"orig",
+					"5",
+					"haystack",
+					"needle",
+					"lru",
+					"roshan",
+					"root",
+					"hugeamount",
+					"for",
+					"getENg",
+					"itertools",
+					"Solution",
+					"solution",
+					"md",
+					"getEnglishWords",
+					"words_url",
+					"word",
+					"maxArray",
+					"hugeamount",
+					"L6_MaxTicketProfit",
+					"expand",
+					"isPalindrome",
+					"beg",
+					"_t",
+					"link_t",
+					"dest",
+					"des",
+					"beg",
+					"start",
+					"beg",
+					"compare",
+					"size",
+					"node",
+					"p",
+					"rear",
+					"front",
+					"IQ1",
+					"state[",
+					"a[",
+					"a",
+					"map",
+					"f",
+					"f[",
+					"init",
+					"f",
+					"isvisited",
+					"res",
+					"ans",
+					"res",
+					"array",
+					"dequeuedogs",
+					"dequeueCat",
+					"dequeueCats",
+					"dequeueCat",
+					"process",
+					"Triangle其实更有意思一些，因为有一个考点就是能否省去额外空间，在面试中出现的可能性大一些，不过总体比较简单，电面中比较合适。",
+					"\n",
+					"c"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -649,54 +867,134 @@
 				"regex": false,
 				"replace_history":
 				[
-					"compNum",
-					"String",
-					" ",
+					"size=\"3\"",
+					"sb",
+					"fetch_data",
+					"end_page",
+					"start_page",
+					"fetch_image_list",
+					"save_image",
+					"fetchData",
+					"hm",
+					"element",
+					"hs",
+					"Hashtable",
+					"currNum",
+					"price",
+					"dst",
+					"Path",
+					"City",
+					"ArrayList<Character>",
+					"source",
+					"target",
+					"start",
+					"_d",
+					"link_d",
+					"start",
+					"QUEUE_SIZE",
+					"last",
+					"first",
+					"ImmutableQueue",
+					"s[",
+					"m[",
+					"state[",
+					"dequeueCat",
+					"dequeueCats",
+					"check",
+					"bChar",
+					"aChar",
+					"result",
+					"byteContent",
+					"add",
+					"listSize",
+					"threadPointer",
+					"last",
+					"first",
+					"stop",
+					"isRunning",
+					"add",
+					"threadCounter",
+					"threadWordCounter",
+					"index",
+					"splitContentList",
+					"add",
+					"fileContent",
+					"wordToRead",
+					"isRun",
+					"index",
+					"increment",
+					"threadWordCounter",
+					"get_block_position",
+					"f",
+					"totalblocknumbers",
+					"end_of_file",
+					"blankbytecount",
+					"entrytype",
+					"entryinode",
+					"entryname",
+					"element_type",
+					"element_inode",
+					"element_name",
+					"fds_inode",
+					"last_block",
+					"index_list",
+					"left_block_data",
+					"previous_block_size",
+					"previous_position",
+					"high",
+					"low",
+					"semaphore",
+					"permit",
+					"pickUp",
+					"beenTaken",
+					"putDown",
+					"PhilosopherWaiter",
+					"PhilosopherDijkstra",
+					"new_indexblocknumber",
+					"new_indexlist",
+					"logicalposition % BLOCKSIZE",
+					"current_logical_position",
+					"_get_newposition",
+					"_read_inode_to_dict",
+					"_empty_file",
+					"_empty_inode",
+					"_empty_block",
+					"_change_inode",
+					"_change_block",
+					"_pop_freeblock",
+					"_push_freeblock",
+					"_get_freeblock_list",
+					"_init_freeblock_list",
+					"_init_block",
+					"_load_fs_special_file",
+					"_update_parent_size",
+					"_load_fs",
+					"_load_fs_special_file",
+					"_restore_superblock",
+					"_persist_metadata",
+					"_get_logic_position",
+					"update_parent_size",
+					"rootdirdata",
+					"_create_root_dir",
+					"filesystemmetadatalock",
 					"1000",
-					"1024",
-					"packet",
-					"0.1",
-					"0.2",
-					"0.3",
-					"0.4",
-					"0.5",
-					"0.6",
-					"0.7",
-					"0.8",
-					"0.9",
-					"bursty",
-					"1.0",
-					"0.9",
-					"0.8",
-					"0.7",
-					"0.6",
-					"0.5",
-					"0.4",
-					"0.3",
-					"0.2",
-					"0.1",
-					"bernoulli_iid_uniform",
-					"0.9",
-					"bernoulli_iid_nonuniform",
-					"1.0",
-					"0.9",
-					"0.8",
-					"0.7",
-					"0.6",
-					"0.4",
-					"0.5",
-					"0.4",
-					"0.3",
-					"0.2",
-					"0.1",
-					"bursty",
-					"data",
-					"dstport",
-					"srcport",
-					"dsthost",
-					"srchost",
-					"timestamp",
-					"Node"
+					"BLOCKMETADATAPREFIX",
+					"MAXBLOCKNUM",
+					"blockdata",
+					"mycontext['consumed_block']",
+					"freeblockEnd",
+					"freeblockStart",
+					"freeblock",
+					"blocknumber",
+					"freeblockcounter",
+					"blockcounter",
+					"['block_start']",
+					"_list_consumed_block",
+					"_start_block",
+					"superblockdata",
+					"_check_file_type",
+					"['block_end']",
+					"['max_block']"
 				],
 				"reverse": false,
 				"show_context": true,
@@ -768,18 +1066,1132 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": false,
-			"side_bar_width": 150.0,
+			"side_bar_width": 180.0,
 			"status_bar_visible": false
 		},
-		"new_window_width": 955.0
+		"new_window_width": 1436.0
 	},
 	"windows":
 	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"mr",
+						"mr"
+					],
+					[
+						"re",
+						"removeDuplicates"
+					],
+					[
+						"D",
+						"D"
+					],
+					[
+						"C",
+						"C"
+					],
+					[
+						"pa",
+						"parentId"
+					],
+					[
+						"st",
+						"startPage"
+					],
+					[
+						"buffer",
+						"BufferedReader"
+					],
+					[
+						"get",
+						"getPopularQueries"
+					],
+					[
+						"long",
+						"longestIncreasingContinuousSubsequence"
+					],
+					[
+						"coun",
+						"countOnes"
+					],
+					[
+						"is",
+						"isPalindrome"
+					],
+					[
+						"pe",
+						"permuteString"
+					],
+					[
+						"inp",
+						"inputString"
+					],
+					[
+						"chec",
+						"checkString"
+					],
+					[
+						"so",
+						"sortLetters"
+					],
+					[
+						"sub",
+						"subarraySum"
+					],
+					[
+						"P",
+						"p"
+					],
+					[
+						"sol",
+						"solveNQueens"
+					],
+					[
+						"las",
+						"lastString"
+					],
+					[
+						"Conta",
+						"containsDuplicate"
+					],
+					[
+						"b",
+						"b"
+					],
+					[
+						"per",
+						"permutation2"
+					],
+					[
+						"le",
+						"letterCombination"
+					],
+					[
+						"A",
+						"Arrays"
+					],
+					[
+						"genera",
+						"GenerateNumber"
+					],
+					[
+						"co",
+						"combinationSum"
+					],
+					[
+						"a",
+						"array"
+					],
+					[
+						"max",
+						"maxSubArray1"
+					],
+					[
+						"dst",
+						"Dst"
+					],
+					[
+						"City",
+						"City02"
+					],
+					[
+						"CIty",
+						"City01"
+					],
+					[
+						"to",
+						"toString"
+					],
+					[
+						"add",
+						"addData"
+					],
+					[
+						"I",
+						"I"
+					],
+					[
+						"E",
+						"E"
+					],
+					[
+						"ds",
+						"dstCity"
+					],
+					[
+						"s",
+						"startCity"
+					],
+					[
+						"as",
+						"asFraction"
+					],
+					[
+						"lo",
+						"longestCommonSubstring"
+					],
+					[
+						"sort",
+						"sortKColors1"
+					],
+					[
+						"sor",
+						"sortKColors"
+					],
+					[
+						"infix",
+						"InfixNotation"
+					],
+					[
+						"eva",
+						"evalInfix"
+					],
+					[
+						"pi",
+						"pivot"
+					],
+					[
+						"pivot",
+						"pivot-1"
+					],
+					[
+						"int",
+						"integers"
+					],
+					[
+						"peek",
+						"peekFirst"
+					],
+					[
+						"de",
+						"doubleQueue"
+					],
+					[
+						"doubl",
+						"doubleQueue"
+					],
+					[
+						"wind",
+						"windowSize"
+					],
+					[
+						"i-w",
+						"i-windowSize"
+					],
+					[
+						"win",
+						"windowMin"
+					],
+					[
+						"firt",
+						"firstOccurrence"
+					],
+					[
+						"rt",
+						"return"
+					],
+					[
+						"Ar",
+						"ArrayList"
+					],
+					[
+						"d",
+						"dest"
+					],
+					[
+						"in",
+						"input"
+					],
+					[
+						"righ",
+						"rightTree"
+					],
+					[
+						"ma",
+						"maxSum"
+					],
+					[
+						"Com",
+						"combinations"
+					],
+					[
+						"str",
+						"strings"
+					],
+					[
+						"search",
+						"searchR"
+					],
+					[
+						"string",
+						"strings"
+					],
+					[
+						"ana",
+						"anagrams"
+					],
+					[
+						"has",
+						"HashTable"
+					],
+					[
+						"index",
+						"indexMerged"
+					],
+					[
+						"ind",
+						"indexA"
+					],
+					[
+						"inde",
+						"indexA"
+					],
+					[
+						"last",
+						"lastA"
+					],
+					[
+						"bo",
+						"bottom"
+					],
+					[
+						"new",
+						"new_height"
+					],
+					[
+						"box",
+						"boxes"
+					],
+					[
+						"stack",
+						"stack_map"
+					],
+					[
+						"row",
+						"rowDistance"
+					],
+					[
+						"c",
+						"column2"
+					],
+					[
+						"In",
+						"Integer"
+					],
+					[
+						"place",
+						"placeQueens"
+					],
+					[
+						"col",
+						"columns"
+					],
+					[
+						"dem",
+						"denoms"
+					],
+					[
+						"am",
+						"amountRemaining"
+					],
+					[
+						"denom",
+						"denomAmount"
+					],
+					[
+						"pai",
+						"paintFill"
+					],
+					[
+						"S",
+						"String"
+					],
+					[
+						"ri",
+						"rightRem"
+					],
+					[
+						"left",
+						"leftRem"
+					],
+					[
+						"subs",
+						"subset"
+					],
+					[
+						"all",
+						"allsubsets"
+					],
+					[
+						"r",
+						"rightIndex"
+					],
+					[
+						"lef",
+						"left"
+					],
+					[
+						"magic",
+						"magicFastDup"
+					],
+					[
+						"mid",
+						"midValue"
+					],
+					[
+						"lengt",
+						"length-1"
+					],
+					[
+						"count",
+						"countWays"
+					],
+					[
+						"end",
+						"end_mask"
+					],
+					[
+						"sta",
+						"start_mask"
+					],
+					[
+						"by",
+						"byte_number"
+					],
+					[
+						"start",
+						"start_mask"
+					],
+					[
+						"l",
+						"last_full_byte"
+					],
+					[
+						"fi",
+						"first_full_byte"
+					],
+					[
+						"comm",
+						"commonAncestorHelper"
+					],
+					[
+						"Tr",
+						"TreeNode"
+					],
+					[
+						"check",
+						"checkBST"
+					],
+					[
+						"ch",
+						"checkBST"
+					],
+					[
+						"cr",
+						"current"
+					],
+					[
+						"tree",
+						"TreeNode"
+					],
+					[
+						"cre",
+						"createLevelLinkedList"
+					],
+					[
+						"tr",
+						"TreeNode"
+					],
+					[
+						"Vi",
+						"Visited"
+					],
+					[
+						"sa",
+						"start"
+					],
+					[
+						"vi",
+						"Visiting"
+					],
+					[
+						"h",
+						"heightDiff"
+					],
+					[
+						"Long",
+						"longestPalindrome"
+					],
+					[
+						"Re",
+						"ReverseLinkedListII"
+					],
+					[
+						"Lar",
+						"largestNumber"
+					],
+					[
+						"ca",
+						"cats"
+					],
+					[
+						"po",
+						"pop"
+					],
+					[
+						"St",
+						"StacksAndQueues_5"
+					],
+					[
+						"move",
+						"moveTopTo"
+					],
+					[
+						"stak",
+						"stackNum"
+					],
+					[
+						"ab",
+						"absTopOfStack"
+					],
+					[
+						"stac",
+						"stackSize"
+					],
+					[
+						"i",
+						"Integer"
+					],
+					[
+						"Lin",
+						"LinkedListNode"
+					],
+					[
+						"aft",
+						"afterStart"
+					],
+					[
+						"af",
+						"afterStart"
+					],
+					[
+						"be",
+						"beforeStart"
+					],
+					[
+						"Li",
+						"LinkedListNode"
+					],
+					[
+						"link",
+						"LinkedListNode"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/liuwenyue/Dropbox/github/Leetcode/Easy/BinaryTreePaths.java",
+					"settings":
+					{
+						"buffer_size": 888,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "Packages/Python/Python.sublime-build",
+			"command_palette":
+			{
+				"height": 61.0,
+				"selected_items":
+				[
+					[
+						"install pa",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: insta",
+						"Package Control: Install Package"
+					],
+					[
+						"Snippet: print",
+						"Snippet: println"
+					],
+					[
+						"Package Control: remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"Package Control: install package",
+						"Package Control: Install Package"
+					],
+					[
+						"font",
+						"Preferences: Package Control Settings – User"
+					],
+					[
+						"settings",
+						"Preferences: Settings - User"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"sub",
+						"Snippet: #!/usr/bin/env"
+					]
+				],
+				"width": 457.0
+			},
+			"console":
+			{
+				"height": 125.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/liuwenyue/Dropbox/github/Leetcode/Easy/BinaryTreePaths.java",
+				"/Users/liuwenyue/Desktop/BinaryTreePaths.java",
+				"/Users/liuwenyue/Dropbox/面试题目总结/probability.txt",
+				"/Users/liuwenyue/Downloads/InterviewPrep-master/algorithms/Sort.java",
+				"/Users/liuwenyue/Downloads/InterviewPrep-master/algorithms/Main.java",
+				"/Users/liuwenyue/Downloads/InterviewPrep-master/algorithms/Search.java",
+				"/Users/liuwenyue/Downloads/InterviewPrep-master/arrays/and/strings/MyMap.java",
+				"/Users/liuwenyue/Downloads/InterviewPrep-master/basic/Main.java",
+				"/Users/liuwenyue/Downloads/InterviewPrep-master/linkedlist/Stack.java",
+				"/Users/liuwenyue/Downloads/InterviewPrep-master/linkedlist/LinkedList.java",
+				"/Users/liuwenyue/Downloads/InterviewPrep-master/trees/and/graphs/BST.java",
+				"/Users/liuwenyue/Dropbox/github/Lintcode/Medium/KthSmallestNumberInSortedMatrix.java",
+				"/Users/liuwenyue/octopress/source/leet/leet.html",
+				"/Users/liuwenyue/Desktop/leet.html",
+				"/Users/liuwenyue/Desktop/Untitled.html",
+				"/Users/liuwenyue/octopress/source/_includes/custom/navigation.html",
+				"/Users/liuwenyue/octopress/_config.yml",
+				"/Users/liuwenyue/octopress/source/about/index.html",
+				"/Users/liuwenyue/Dropbox/github/File_Sharing_Website/remover.py",
+				"/Users/liuwenyue/Dropbox/github/File_Sharing_Website/qn.py",
+				"/Users/liuwenyue/Dropbox/github/File_Sharing_Website/config.py",
+				"/Users/liuwenyue/Dropbox/github/File_Sharing_Website/app.py",
+				"/Users/liuwenyue/Documents/7373/SwitchSIM_withManuals_forMac/main/ALGORITHMS/algorithmTable.h",
+				"/Users/liuwenyue/Documents/7373/SwitchSIM_withManuals_forMac/main/ALGORITHMS/mr.c",
+				"/Users/liuwenyue/Documents/7373/SwitchSIM_withManuals_forMac/main/data/mr_8x8.output",
+				"/Users/liuwenyue/Documents/7373/SwitchSIM_withManuals_forMac/main/ALGORITHMS/Makefile",
+				"/Users/liuwenyue/Documents/7373/SwitchSIM_withManuals_forMac/main/ALGORITHMS/pim.o",
+				"/Users/liuwenyue/Documents/7373/SwitchSIM_withManuals_forMac/main/ALGORITHMS/pim.c",
+				"/Users/liuwenyue/Documents/7373/SwitchSIM_withManuals_forMac/main/ALGORITHMS/future.c",
+				"/Users/liuwenyue/Documents/7373/SwitchSIM_withManuals_forMac/main/TEST_INPS/8x8.output",
+				"/Users/liuwenyue/Documents/7373/SwitchSIM_withManuals_forMac/main/ALGORITHMS/future.h",
+				"/Users/liuwenyue/Documents/7373/SwitchSIM_withManuals_forMac/main/ALGORITHMS/assign2.h",
+				"/Users/liuwenyue/Documents/7373/SwitchSIM_withManuals_forMac/main/ALGORITHMS/ap2driver.c",
+				"/Users/liuwenyue/Documents/7373/SwitchSIM_withManuals_forMac/main/ALGORITHMS/wwfa.h",
+				"/Users/liuwenyue/Dropbox/github/File_Sharing_Website/templates/index.html",
+				"/Users/liuwenyue/octopress/cloud/cloud.html",
+				"/Users/liuwenyue/Dropbox/github/File_Sharing_Website/templates/style.css",
+				"/Users/liuwenyue/octopress/source/photo/index.html",
+				"/Users/liuwenyue/Desktop/index.html",
+				"/Users/liuwenyue/Downloads/flask-ghpages-example-master/project/main.py",
+				"/Users/liuwenyue/Downloads/flask-ghpages-example-master/run.py",
+				"/Users/liuwenyue/Downloads/flask-ghpages-example-master/freeze.py",
+				"/Users/liuwenyue/Downloads/flask-ghpages-example-master/project/views.py",
+				"/Users/liuwenyue/Downloads/flask-ghpages-example-master/project/settings.py",
+				"/Users/liuwenyue/Downloads/flask-ghpages-example-master/project/app.py",
+				"/Users/liuwenyue/octopress/source/cloud/cloud.html",
+				"/Users/liuwenyue/Desktop/remover.py",
+				"/Users/liuwenyue/Desktop/app.py",
+				"/Users/liuwenyue/Desktop/q.py",
+				"/Users/liuwenyue/Desktop/config.py",
+				"/Users/liuwenyue/Desktop/cleaner.py",
+				"/Users/liuwenyue/Desktop/templates/index.html",
+				"/Users/liuwenyue/Downloads/doora/q.py",
+				"/Users/liuwenyue/Downloads/doora/config.py",
+				"/Users/liuwenyue/Downloads/doora/app.py",
+				"/Users/liuwenyue/Downloads/app.py",
+				"/Users/liuwenyue/Downloads/cleaner.py",
+				"/Users/liuwenyue/Downloads/doora/cleaner.py",
+				"/Users/liuwenyue/Downloads/doora/templates/index.html",
+				"/Users/liuwenyue/Downloads/djproject/Users/views.py",
+				"/Users/liuwenyue/Downloads/djproject/uploader/views.py",
+				"/Users/liuwenyue/Downloads/djproject/djproject/wsgi.py",
+				"/Users/liuwenyue/Downloads/djproject/djproject/urls.py",
+				"/Users/liuwenyue/Downloads/doora-master/app.py",
+				"/Users/liuwenyue/Downloads/doora-master/config.py",
+				"/Users/liuwenyue/Downloads/myproject/myproject/settings.py",
+				"/Users/liuwenyue/Downloads/Python-example-master/djproject/uploader/views.py",
+				"/Users/liuwenyue/Downloads/Python-example-master/djproject/djproject/urls.py",
+				"/Users/liuwenyue/Dropbox/github/Leetcode/Easy/AddBinary.java",
+				"/Users/liuwenyue/Dropbox/get-data.py",
+				"/Users/liuwenyue/Downloads/leetcode-master/get-data.py",
+				"/Users/liuwenyue/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+				"/Users/liuwenyue/Desktop/new.txt",
+				"/Users/liuwenyue/Dropbox/github/Lintcode/Hard/Nuts&BoltsProblem.java",
+				"/Users/liuwenyue/Dropbox/github/Lintcode/Nuts&BoltsProblem.java",
+				"/Users/liuwenyue/Dropbox/github/Lintcode/CopyBooks.java",
+				"/Users/liuwenyue/Dropbox/github/Lintcode/PostOfficeProblem.java",
+				"/Users/liuwenyue/Dropbox/github/Lintcode/SubmatrixSum.java",
+				"/Users/liuwenyue/Desktop/PermutationIndexII.java",
+				"/Users/liuwenyue/Desktop/PermutationIndex.java",
+				"/Users/liuwenyue/Desktop/ValidAnagram.java",
+				"/Users/liuwenyue/Dropbox/刷题/Anagrams.java",
+				"/Users/liuwenyue/Documents/7373/simv2.35/main/switchStats.c",
+				"/Users/liuwenyue/Documents/7373/simv2.35/main/ALGORITHMS/ap2driver.c",
+				"/Users/liuwenyue/Documents/7373/simv2.35/main/ALGORITHMS/algorithmTable.h",
+				"/Users/liuwenyue/Documents/7373/simv2.35/main/ALGORITHMS/algorithm.h",
+				"/Users/liuwenyue/Desktop/run.sh",
+				"/Users/liuwenyue/Desktop/7373/数据/8x8.output",
+				"/Users/liuwenyue/Dropbox/github/sunny/run.sh",
+				"/Users/liuwenyue/Dropbox/github/sunny/launch.sh",
+				"/Users/liuwenyue/Downloads/fake-committer-master/launch.sh",
+				"/Users/liuwenyue/octopress/source/_includes/custom/asides/tag_cloud.html",
+				"/Users/liuwenyue/octopress/_deploy/tag/index.html",
+				"/Users/liuwenyue/octopress/tag/index.html",
+				"/Users/liuwenyue/octopress/sass/custom/_styles.scss",
+				"/Users/liuwenyue/Dropbox/学术/EL6383-HighSpeed/Project-Traffic-Analysis/code/task3.py",
+				"/Users/liuwenyue/Dropbox/学术/EL6383-HighSpeed/Project-Traffic-Analysis/code/task2.py",
+				"/Users/liuwenyue/Dropbox/学术/EL6383-HighSpeed/Project-Traffic-Analysis/code/task1.py",
+				"/Users/liuwenyue/Downloads/web_u-master/Web_Flash_Driver/views.py",
+				"/Users/liuwenyue/Documents/Leet/Leet/Resources/code/4Sum.html",
+				"/Users/liuwenyue/Documents/Leet/Leet/Resources/code/3Sum.html",
+				"/Users/liuwenyue/Documents/Leet/Leet/Resources/code/3Sum Closest.html",
+				"/Users/liuwenyue/Documents/Leet/Leet/Resources/code/Remove Nth Node From End of List.html",
+				"/Users/liuwenyue/Documents/Leet/Leet/Resources/code/Binary Search Tree Iterator.html",
+				"/Users/liuwenyue/Documents/Leet/Leet/Resources/code/Best Time to Buy and Sell Stock IV.html",
+				"/Users/liuwenyue/Documents/Leet/Leet/Resources/code/Best Time to Buy and Sell Stock III.html",
+				"/Users/liuwenyue/Documents/Leet/Leet/Resources/code/Best Time to Buy and Sell Stock II.html",
+				"/Users/liuwenyue/Documents/Leet/Leet/Resources/code/Best Time to Buy and Sell Stock.html",
+				"/Users/liuwenyue/Documents/Leet/Leet/Resources/code/Balanced Binary Tree.html",
+				"/Users/liuwenyue/Documents/Leet/Leet/Resources/code/Anagrams.html",
+				"/Users/liuwenyue/Documents/Leet/Leet/Resources/code/Add Two Numbers.html",
+				"/Users/liuwenyue/Documents/Leet/Leet/Resources/code/Add Binary.html",
+				"/Users/liuwenyue/Desktop/code/LRU Cache.html",
+				"/Users/liuwenyue/Desktop/code/Maximal Square.html",
+				"/Users/liuwenyue/Desktop/code/Maximum Gap.html",
+				"/Users/liuwenyue/Desktop/code/Maximum Product Subarray.html",
+				"/Users/liuwenyue/Desktop/code/Maximum Gap copy.html",
+				"/Users/liuwenyue/Desktop/code/Maximum Depth of Binary Tree.html",
+				"/Users/liuwenyue/Desktop/code/Maximal Rectangle.html",
+				"/Users/liuwenyue/Desktop/code/Max Points on a Line.html",
+				"/Users/liuwenyue/Desktop/code/Majority Element.html",
+				"/Users/liuwenyue/Desktop/code/Trapping Rain Water.html",
+				"/Users/liuwenyue/Desktop/code/Two Sum.html",
+				"/Users/liuwenyue/Desktop/code/Permutations II.html",
+				"/Users/liuwenyue/Desktop/code/Longest Valid Parentheses.html",
+				"/Users/liuwenyue/Desktop/code/Remove Element.html",
+				"/Users/liuwenyue/Desktop/code/Remove Nth Node From End of List.html",
+				"/Users/liuwenyue/Desktop/code/Substring with Concatenation of All Words.html"
+			],
+			"find":
+			{
+				"height": 46.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"color",
+					"font",
+					"title",
+					"height",
+					"fifo",
+					"wwfa",
+					"css",
+					"drop",
+					"click",
+					"png",
+					"jpg",
+					"width",
+					"run",
+					"conf",
+					"database",
+					"databse",
+					"size=\"2\"",
+					"<!",
+					"size=\"2\"",
+					"second",
+					"home",
+					"ret",
+					"Ret",
+					"ret",
+					"mat",
+					"ind",
+					"last",
+					"mystr",
+					"/*",
+					"test",
+					"fetchdata",
+					"idx",
+					"endpage",
+					"startPage",
+					"mypath",
+					"url",
+					"getImageList",
+					"saveImage",
+					"sprider",
+					"getdata",
+					"respone",
+					"desc",
+					"\\r",
+					"\\n",
+					"/n",
+					"n",
+					"leave",
+					"beau",
+					"currLongest",
+					"oddSeen",
+					"parity",
+					"bufferReader",
+					"elems",
+					"format",
+					"fileName",
+					"ds",
+					"myds",
+					"capacity",
+					"tag",
+					"currs",
+					"changeCoins",
+					"22222",
+					"weight",
+					"argDst",
+					"target",
+					"Edge",
+					"Vertex",
+					"path",
+					"}",
+					"ArrayList<Char>",
+					"orig",
+					"5",
+					"haystack",
+					"needle",
+					"lru",
+					"roshan",
+					"root",
+					"hugeamount",
+					"for",
+					"getENg",
+					"itertools",
+					"Solution",
+					"solution",
+					"md",
+					"getEnglishWords",
+					"words_url",
+					"word",
+					"maxArray",
+					"hugeamount",
+					"L6_MaxTicketProfit",
+					"expand",
+					"isPalindrome",
+					"beg",
+					"_t",
+					"link_t",
+					"dest",
+					"des",
+					"beg",
+					"start",
+					"beg",
+					"compare",
+					"size",
+					"node",
+					"p",
+					"rear",
+					"front",
+					"IQ1",
+					"state[",
+					"a[",
+					"a",
+					"map",
+					"f",
+					"f[",
+					"init",
+					"f",
+					"isvisited",
+					"res",
+					"ans",
+					"res",
+					"array",
+					"dequeuedogs",
+					"dequeueCat",
+					"dequeueCats",
+					"dequeueCat",
+					"process",
+					"Triangle其实更有意思一些，因为有一个考点就是能否省去额外空间，在面试中出现的可能性大一些，不过总体比较简单，电面中比较合适。",
+					"\n",
+					"c"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"size=\"3\"",
+					"sb",
+					"fetch_data",
+					"end_page",
+					"start_page",
+					"fetch_image_list",
+					"save_image",
+					"fetchData",
+					"hm",
+					"element",
+					"hs",
+					"Hashtable",
+					"currNum",
+					"price",
+					"dst",
+					"Path",
+					"City",
+					"ArrayList<Character>",
+					"source",
+					"target",
+					"start",
+					"_d",
+					"link_d",
+					"start",
+					"QUEUE_SIZE",
+					"last",
+					"first",
+					"ImmutableQueue",
+					"s[",
+					"m[",
+					"state[",
+					"dequeueCat",
+					"dequeueCats",
+					"check",
+					"bChar",
+					"aChar",
+					"result",
+					"byteContent",
+					"add",
+					"listSize",
+					"threadPointer",
+					"last",
+					"first",
+					"stop",
+					"isRunning",
+					"add",
+					"threadCounter",
+					"threadWordCounter",
+					"index",
+					"splitContentList",
+					"add",
+					"fileContent",
+					"wordToRead",
+					"isRun",
+					"index",
+					"increment",
+					"threadWordCounter",
+					"get_block_position",
+					"f",
+					"totalblocknumbers",
+					"end_of_file",
+					"blankbytecount",
+					"entrytype",
+					"entryinode",
+					"entryname",
+					"element_type",
+					"element_inode",
+					"element_name",
+					"fds_inode",
+					"last_block",
+					"index_list",
+					"left_block_data",
+					"previous_block_size",
+					"previous_position",
+					"high",
+					"low",
+					"semaphore",
+					"permit",
+					"pickUp",
+					"beenTaken",
+					"putDown",
+					"PhilosopherWaiter",
+					"PhilosopherDijkstra",
+					"new_indexblocknumber",
+					"new_indexlist",
+					"logicalposition % BLOCKSIZE",
+					"current_logical_position",
+					"_get_newposition",
+					"_read_inode_to_dict",
+					"_empty_file",
+					"_empty_inode",
+					"_empty_block",
+					"_change_inode",
+					"_change_block",
+					"_pop_freeblock",
+					"_push_freeblock",
+					"_get_freeblock_list",
+					"_init_freeblock_list",
+					"_init_block",
+					"_load_fs_special_file",
+					"_update_parent_size",
+					"_load_fs",
+					"_load_fs_special_file",
+					"_restore_superblock",
+					"_persist_metadata",
+					"_get_logic_position",
+					"update_parent_size",
+					"rootdirdata",
+					"_create_root_dir",
+					"filesystemmetadatalock",
+					"1000",
+					"BLOCKMETADATAPREFIX",
+					"MAXBLOCKNUM",
+					"blockdata",
+					"mycontext['consumed_block']",
+					"freeblockEnd",
+					"freeblockStart",
+					"freeblock",
+					"blocknumber",
+					"freeblockcounter",
+					"blockcounter",
+					"['block_start']",
+					"_list_consumed_block",
+					"_start_block",
+					"superblockdata",
+					"_check_file_type",
+					"['block_end']",
+					"['max_block']"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/liuwenyue/Dropbox/github/Leetcode/Easy/BinaryTreePaths.java",
+							"settings":
+							{
+								"buffer_size": 888,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										226,
+										226
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Java/Java.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 44.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 100.0
+			},
+			"output.unsaved_changes":
+			{
+				"height": 124.0
+			},
+			"position": "4 0 1436 877 0 0 1440 877 ",
+			"replace":
+			{
+				"height": 94.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 180.0,
+			"status_bar_visible": false,
+			"window_id": 11759,
+			"workspace_name": ""
+		}
 	],
 	"workspaces":
 	{
 		"recent_workspaces":
 		[
+			"/Users/liuwenyue/Documents/hw5.sublime-project"
 		]
 	}
 }
